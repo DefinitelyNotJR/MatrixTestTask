@@ -1,0 +1,22 @@
+C:\matrix test task\bin\Debug\netcoreapp2.1\matrix test task.deps.json
+C:\matrix test task\bin\Debug\netcoreapp2.1\matrix test task.runtimeconfig.json
+C:\matrix test task\bin\Debug\netcoreapp2.1\matrix test task.runtimeconfig.dev.json
+c:\matrix test task\bin\Debug\netcoreapp2.1\matrix test task.dll
+c:\matrix test task\bin\Debug\netcoreapp2.1\matrix test task.pdb
+c:\matrix test task\obj\Debug\netcoreapp2.1\matrix test task.csprojAssemblyReference.cache
+c:\matrix test task\obj\Debug\netcoreapp2.1\matrix test task.csproj.CoreCompileInputs.cache
+c:\matrix test task\obj\Debug\netcoreapp2.1\matrix test task.AssemblyInfoInputs.cache
+c:\matrix test task\obj\Debug\netcoreapp2.1\matrix test task.AssemblyInfo.cs
+c:\matrix test task\obj\Debug\netcoreapp2.1\matrix test task.dll
+c:\matrix test task\obj\Debug\netcoreapp2.1\matrix test task.pdb
+C:\Users\Trading\41\Matrix-test-task\bin\Debug\netcoreapp2.1\matrix test task.deps.json
+C:\Users\Trading\41\Matrix-test-task\bin\Debug\netcoreapp2.1\matrix test task.runtimeconfig.json
+C:\Users\Trading\41\Matrix-test-task\bin\Debug\netcoreapp2.1\matrix test task.runtimeconfig.dev.json
+c:\Users\Trading\41\Matrix-test-task\bin\Debug\netcoreapp2.1\matrix test task.dll
+c:\Users\Trading\41\Matrix-test-task\bin\Debug\netcoreapp2.1\matrix test task.pdb
+c:\Users\Trading\41\Matrix-test-task\obj\Debug\netcoreapp2.1\matrix test task.csprojAssemblyReference.cache
+c:\Users\Trading\41\Matrix-test-task\obj\Debug\netcoreapp2.1\matrix test task.csproj.CoreCompileInputs.cache
+c:\Users\Trading\41\Matrix-test-task\obj\Debug\netcoreapp2.1\matrix test task.AssemblyInfoInputs.cache
+c:\Users\Trading\41\Matrix-test-task\obj\Debug\netcoreapp2.1\matrix test task.AssemblyInfo.cs
+c:\Users\Trading\41\Matrix-test-task\obj\Debug\netcoreapp2.1\matrix test task.dll
+c:\Users\Trading\41\Matrix-test-task\obj\Debug\netcoreapp2.1\matrix test task.pdb
