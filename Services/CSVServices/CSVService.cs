@@ -2,9 +2,9 @@ using System;
 using System.IO;
 using System.Linq;
 
-namespace matrix_test_task.Services.ArrayServices
+namespace matrix_test_task.Services.CSVServices
 {
-    public class ArrayService : IArrayService
+    public class CSVService : ICSVService
     {
         public string[][] ReadCsvAsArray(string fileName)
         {

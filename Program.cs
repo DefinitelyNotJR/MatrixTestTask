@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using matrix_test_task.Services.ArrayServices;
+using matrix_test_task.Services.CSVServices;
 using matrix_test_task.Services.MatrixServices;
 
 namespace matrix_test_task
@@ -31,23 +31,23 @@ namespace matrix_test_task
 
         private static void RotateCsvMatrix()
         {
-            IArrayService _arrayService = new ArrayService();
+            ICSVService _csvService = new CSVService();
             IMatrixService _matrixService = new MatrixService();
 
-            var matrix = _arrayService.ReadCsvAsArray("csvinput");
+            var matrix = _csvService.ReadCsvAsArray("csvinput");
             var rotatedMatrix = _matrixService.RotateMatrix(_matrixService.TransposeMatrix(matrix));
-            _arrayService.SaveArrayAsCSV(rotatedMatrix, "csvoutput");
+            _csvService.SaveArrayAsCSV(rotatedMatrix, "csvoutput");
         }
 
         private static void RotateRandomMatrix()
         {
-            IArrayService _arrayService = new ArrayService();
+            ICSVService _csvService = new CSVService();
             IMatrixService _matrixService = new MatrixService();
 
             var matrix = _matrixService.RandomMatrix();
-            _arrayService.SaveArrayAsCSV(matrix, "randommatrix");
+            _csvService.SaveArrayAsCSV(matrix, "randommatrix");
             var rotatedMatrix = _matrixService.RotateMatrix(_matrixService.TransposeMatrix(matrix));
-            _arrayService.SaveArrayAsCSV(rotatedMatrix, "randommatrixrotated");
+            _csvService.SaveArrayAsCSV(rotatedMatrix, "randommatrixrotated");
         }
     }
 }

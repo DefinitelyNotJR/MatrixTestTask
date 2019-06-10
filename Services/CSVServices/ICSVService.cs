@@ -1,8 +1,8 @@
 using System;
 
-namespace matrix_test_task.Services.ArrayServices
+namespace matrix_test_task.Services.CSVServices
 {
-    public interface IArrayService
+    public interface ICSVService
     {
         void SaveArrayAsCSV<T>(T[][] arrayToSave, string fileName);
 
